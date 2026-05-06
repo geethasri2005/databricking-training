@@ -41,3 +41,10 @@
 
 ## 🔗 Practice Platform
 - Used DB Fiddle to execute SQL queries
+
+## 📺 Learning Resources
+- Completed first 2 SQL tutorial videos
+
+## ✅ Summary
+This session helped me understand the basics of SQL and how to work with tables, retrieve data, and apply different types of queries.
+
