@@ -1,48 +1,56 @@
 # 📅 Week 1 – Day 2 Summary
 
-## 📖 Concepts Practiced
-- Aggregate functions in SQL
-- GROUP BY clause
-- HAVING clause
-- Date-based filtering
-- Department-wise data analysis
-- Salary and employee statistics
+## 📖 Topics Practiced
+- SQL SELECT statements
+- Filtering records using WHERE clause
+- Aggregate functions with GROUP BY
+- Filtering grouped data using HAVING clause
+- Sorting and limiting records using ORDER BY and LIMIT
+- Using DISTINCT keyword
+- Comparison and logical operators
+- IN, NOT IN, and BETWEEN operators
+- Pattern matching using LIKE operator
 
 ---
 
-## 💻 Tasks Completed
-- Executed SQL queries on the Employee table
-- Calculated average, minimum, maximum, and total salaries
-- Retrieved employee statistics department-wise
-- Filtered records using date conditions
-- Used GROUP BY and HAVING clauses for grouped results
+## 💻 Practice Activities
+- Created Employee table with sample data
+- Inserted employee records into the database
+- Executed multiple SQL queries based on practice questions
+- Tested filtering, grouping, and sorting operations
 - Verified outputs for all executed queries
 
 ---
 
 ## 📝 Key Learnings
-- Using aggregate functions like AVG(), SUM(), MIN(), MAX(), and COUNT()
+- Retrieving data using SELECT queries
+- Applying conditions with WHERE clause
+- Performing calculations using aggregate functions
 - Grouping records using GROUP BY
-- Filtering grouped data using HAVING clause
-- Retrieving year-based information using YEAR()
-- Working with date functions such as CURDATE() and DATE_SUB()
-- Analyzing employee and department data efficiently using SQL queries
+- Filtering grouped results using HAVING
+- Using logical and comparison operators effectively
+- Understanding IN, NOT IN, and BETWEEN conditions
+- Searching patterns using LIKE operator
+- Sorting and limiting query results using ORDER BY and LIMIT
 
 ---
 
 ## 📁 Files Included
-- `queries.sql` → Contains Day 2 SQL queries and solutions
-- `output1.png`, `output2.png`, `output3.png` → Screenshots of executed query outputs
+- `queries.sql` → Contains all SQL questions and solutions
+- `output(01).png`, `output(02).png`, `output(03).png` → Screenshots of query outputs
+- `README.md` → Day 2 practice summary
 
 ---
 
-## 🎯 Queries Covered
-- Average salary in each department
-- Highest salary department-wise
-- Employees hired in the last 2 years
-- Total salary of employees
-- Minimum and average salary calculations
-- Employee count by department
-- Department-wise salary analysis
-- Departments with more than 2 employees
-- Departments with average salary greater than 55000
+## 🎯 Query Categories Covered
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- TOP / LIMIT
+- DISTINCT
+- COMPARISON OPERATORS
+- LOGICAL OPERATORS
+- IN & NOT IN
+- BETWEEN
+- LIKE OPERATOR
