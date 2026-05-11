@@ -1,50 +1,44 @@
-# Week 1 - Day 1
+# 📅 Week 1 – Day 1 Summary
 
-## 📌 Topics Covered
-- Introduction to SQL
-- Understanding database tables (Employee, Department, Project)
-- Basic SQL queries (SELECT, WHERE, ORDER BY)
-- Aggregate functions (COUNT, AVG, SUM, MAX)
-- Joins (combining Employee and Department tables)
+## 📖 Concepts Learned
+- Introduction to SQL and relational databases
+- Understanding Employee, Department, and Project tables
+- Writing basic SQL statements using SELECT, WHERE, and ORDER BY
+- Using aggregate functions like COUNT, AVG, SUM, and MAX
+- Performing JOIN operations between tables
+- Filtering and organizing data using SQL queries
 
-## 🧪 Practice Work
-- Executed given `datacreation.sql` in DB Fiddle
-- Created tables and inserted data
-- Solved multiple SQL queries from practice document
-- Tested queries and verified outputs
+---
 
-## 🧠 What I Learned
-- How to create and manage tables using SQL
-- Writing SELECT queries to retrieve data
-- Filtering data using WHERE conditions
-- Using aggregate functions like COUNT, AVG, SUM
-- Sorting data using ORDER BY
-- Performing joins between tables
-- Handling NULL values in queries
-- Understanding primary key and foreign key relationships
+## 💻 Tasks Performed
+- Executed `datacreation.sql` in DB Fiddle
+- Created database tables and inserted records successfully
+- Solved SQL queries from the practice sheet
+- Tested query outputs and verified results
+- Uploaded practice files and screenshots to GitHub
 
-## 📂 Files Included
-- `queries.sql` → Contains all questions and SQL solutions
-- `output1.png`, `output2.png`, `output3.png` → Query outputs
+---
 
-## 📸 Output Screenshots
+## 📝 Knowledge Gained
+- Creating and managing database tables
+- Retrieving records using SELECT queries
+- Applying conditions using WHERE clause
+- Using aggregate functions for calculations
+- Sorting records with ORDER BY
+- Combining tables using JOIN operations
+- Understanding NULL values in SQL
+- Learning Primary Key and Foreign Key relationships
 
-![Output1](output1.png)
-![Output2](output2.png)
-![Output3](output3.png)
-![Output4](output4.png)
-![Output5](output5.png)
-![Output6](output6.png)
-![Output7](output7.png)
-![Output8](output8.png)
-![Output9](output9.png)
+---
 
-## 🔗 Practice Platform
-- Used DB Fiddle to execute SQL queries
+## 📁 Files Added
+- `datacreation.sql` → Contains schema creation and sample data
+- `queries.sql` → Contains SQL questions and solutions
+- `output1.png`, `output2.png`, `output3.png` → Query execution screenshots
 
-## 📺 Learning Resources
-- Completed first 2 SQL tutorial videos
+---
 
-## ✅ Summary
-This session helped me understand the basics of SQL and how to work with tables, retrieve data, and apply different types of queries.
-
+## 🎥 Learning Materials
+- SQL practice document
+- DB Fiddle platform
+- SQL tutorial videos
